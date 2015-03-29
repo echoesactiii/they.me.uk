@@ -1,0 +1,18 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Kay Leacock -- I wrote the damned thing -- @cmantito
+
+# THANKS
+
+    OED
+    Motivated Grammar
+    @HannahBees
+    Eve Dove
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr

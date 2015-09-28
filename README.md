@@ -4,4 +4,4 @@ they.me.uk is a very basic Bootstrap static site that debunks myths surrounding 
 
 Open to suggestions and improvements - please feel free to submit a pull request or an issue, or tweet me!
 
-~ Kay // @cmantito
+~ Kay // @b0redofb1nary
